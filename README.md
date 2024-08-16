@@ -51,7 +51,7 @@ A significant portion of deliveries are late, particularly in `First Class` and 
 # Sales Trends
 The graph below denotes the sales trend monthly. The lowest number of sales were recorded in November 2017 for all products combined.
 
-![Image URL](https://github.com/akshan-main/supplychain/blob/main/sales trend.png)
+![Image URL](https://github.com/akshan-main/supplychain/blob/main/sales_trend.png)
 
 The graph below denotes the sales trend monthly for ` Nike Men's Free 5.0+ Running Shoe `. Highest sales were recorded for the product during July 2017 and lowest during February 2015. The highest ever recorded sale of the product is just over 5000.
 
