@@ -46,9 +46,10 @@ There are 4 different delivery statuses and the total number of instances of eac
 
 There are 4 different delivery statuses and 4 different shipping modes. The distribution of delivery status filtered by its shipping mode can be seen on the below cross-tabulation chart. 
 
+![Image URL](https://github.com/akshan-main/supplychain/blob/main/delivery_status_by_shipping_mode.jpeg)
+
 A significant portion of deliveries are late, particularly in `First Class` and `Second Class` shipping modes. Late deliveries are the most common delivery status, especially in `First Class` shipping mode. `Standard Class` shows a more balanced distribution across different delivery statuses. It's likely that the customers choosing `First Class` will be disappointed.
 
-![Image URL](https://github.com/akshan-main/supplychain/blob/main/delivery_status_by_shipping_mode.jpeg)
 
 # Sales Trends
 The graph below denotes the `sales trend` monthly. The lowest number of sales was recorded in November 2017 for all products combined.
