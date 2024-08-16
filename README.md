@@ -33,7 +33,9 @@ The distribution for the same is seen in the pie chart
 # Top products- Market based
 There are 5 different markets. The top 6 products from each market can be seen on the graph along with the count of each product within the market.
 
-The products ` Perfect Fitness Perfect Rip Deck `, ` Nike Men's Free 5.0+ Running Shoe `,` Nike Men's Dri-FIT Victory Golf Polo `,` Field & Stream Sportsman 16 Gun Fire Safe ` are among the top 6 products sold in all regions.
+The products ` Perfect Fitness Perfect Rip Deck `, ` Nike Men's Free 5.0+ Running Shoe `,` Nike Men's Dri-FIT Victory Golf Polo `,` Field & Stream Sportsman 16 Gun Fire Safe ` are among the top 6 products sold in all markets.
+
+`Smart Watch` is the highest sold of all items in a particular market ie; it's the highest sold item in the `Pacific Asia` market but it is not among the top 6 sold products in any of the other 5 markets.
 
 ![Image URL](https://github.com/akshan-main/supplychain/blob/main/top_products_by_market.jpeg)
 
@@ -49,11 +51,11 @@ A significant portion of deliveries are late, particularly in `First Class` and 
 ![Image URL](https://github.com/akshan-main/supplychain/blob/main/delivery_status_by_shipping_mode.jpeg)
 
 # Sales Trends
-The graph below denotes the sales trend monthly. The lowest number of sales was recorded in November 2017 for all products combined.
+The graph below denotes the `sales trend` monthly. The lowest number of sales was recorded in November 2017 for all products combined.
 
 ![Image URL](https://github.com/akshan-main/supplychain/blob/main/sales_trend.png)
 
-The graph below denotes the sales trend monthly for ` Nike Men's Free 5.0+ Running Shoe `. 
+The graph below denotes the ``sales trend monthly`` for ` Nike Men's Free 5.0+ Running Shoe `. 
 
 The highest amount of sales was recorded for the product during July 2017 and the lowest was during February 2015. The highest ever recorded sale of the product is just over 5000.
 
