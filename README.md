@@ -22,7 +22,7 @@ The pie chart below describes the distribution of `total sales` through differen
 # Market Analysis- Distribution among markets
 There are 5 different markets. The total number of instances of each in the dataset is seen in the bar graph below.
 
-Europe and Pacific Asia are the top-performing markets in terms of sales, while Latin America, Africa and USCA (United States & Canada) lag behind.
+`Europe` and `Pacific Asia` are the top-performing markets in terms of `sales`, `while Latin America`, `Africa` and `USCA (United States & Canada)` lag behind.
 
 ![Image URL](https://github.com/akshan-main/supplychain/blob/main/market_counts.jpeg)
 
@@ -49,15 +49,15 @@ A significant portion of deliveries are late, particularly in `First Class` and 
 ![Image URL](https://github.com/akshan-main/supplychain/blob/main/delivery_status_by_shipping_mode.jpeg)
 
 # Sales Trends
-The graph below denotes the sales trend monthly. The lowest number of sales were recorded in November 2017 for all products combined.
+The graph below denotes the sales trend monthly. The lowest number of sales was recorded in November 2017 for all products combined.
 
 ![Image URL](https://github.com/akshan-main/supplychain/blob/main/sales_trend.png)
 
 The graph below denotes the sales trend monthly for ` Nike Men's Free 5.0+ Running Shoe `. 
 
-Highest sales were recorded for the product during July 2017 and lowest during February 2015. The highest ever recorded sale of the product is just over 5000.
+The highest amount of sales was recorded for the product during July 2017 and the lowest was during February 2015. The highest ever recorded sale of the product is just over 5000.
 
-The latest recorded sale of this product is on September 2017
+The latest recorded sale of this product was in September 2017
 
 ![Image URL](https://github.com/akshan-main/supplychain/blob/main/sales_trend_nike5.0.png)
 
@@ -71,7 +71,7 @@ The `degree of a node` is the total number of nodes connected to a given node. I
 
 The higher the `degree of a node`, the bigger the size and the darker the color.
 
-The edges represent the weight, which here is the total amount of sales that have taken place between the two nodes( `Market` node and `Customer Segment` node). The edge length is directly proportional to the total sales.
+The edges represent the weight, which here is the total amount of sales that have taken place between the two nodes(the `Market` node and the `Customer Segment` node). The edge length is directly proportional to the total sales.
 
 The `Sales` as implied from the dataset is `Product Price` times `Quantity`.
 
