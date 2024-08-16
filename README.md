@@ -1,6 +1,10 @@
 # A project performing analysis on a supply chain dataset
 
+#Customer Segment Distribution- Bar Graph
+There are 3 customer segments- Home Office, Corporate, and Consumer. The total number of instances of each in the dataset is in the bar graph below.
 ![Image URL](https://github.com/akshan-main/supplychain/blob/main/customer_segment_count.jpeg)
+#Customer Segment Distribution- Pie Chart
+There are 3 customer segments- Home Office, Corporate, and Consumer. The distribution of each segment in the dataset can be seen in the pie graph below.
 ![Image URL](https://github.com/akshan-main/supplychain/blob/main/customer_segment_distribution.jpeg)
 ![Image URL](https://github.com/akshan-main/supplychain/blob/main/customer_segment_count.jpeg)
 ![Image URL](https://github.com/akshan-main/supplychain/blob/main/market_counts.jpeg)
