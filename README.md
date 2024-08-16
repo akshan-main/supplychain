@@ -29,7 +29,14 @@ There are 4 different delivery statuses and the total number of instances of eac
 
 ![Image URL](https://github.com/akshan-main/supplychain/blob/main/delivery_status_distribution.jpeg)
 
+There are 4 different delivery statuses and 4 different shipping modes. The distribution of delivery status filtered by its shipping mode can be seen on the below cross-tabulation chart.
 
 ![Image URL](https://github.com/akshan-main/supplychain/blob/main/delivery_status_by_shipping_mode.jpeg)
+
+# Market and Customer Segment Interaction
+This is a graph plotted with the help of networkx library. The nodes represent customer segments and markets. Their color and size are based on their degree.
+The degree of a node is the total number of nodes connected to a given node. It can also be defined as the number of edges linked to a node.
+The higher the degree of a node, the bigger the size and the darker the color.
+The edges represent the weight, which here is the total amount of sales that have taken place between the two nodes( Market node and Customer Segment node)
 
 ![Image URL](https://github.com/akshan-main/supplychain/blob/main/Market_customer_segment_interaction.png)
