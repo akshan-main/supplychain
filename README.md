@@ -74,7 +74,7 @@ The `degree of a node` is the total number of nodes connected to a given node. I
 
 The higher the `degree of a node`, the bigger the size and the darker the color.
 
-The edges represent the weight, which here is the total amount of sales that have taken place between the two nodes(the `Market` node and the `Customer Segment` node). The edge length is directly proportional to the total sales.
+The edges represent the weight, which here is the total amount of sales that have taken place between the two nodes(the `Market` node and the `Customer Segment` node).
 
 The `Sales` as implied from the dataset is `Product Price` times `Quantity`.
 
