@@ -13,11 +13,11 @@ There are 3 customer segments- `Home Office`, `Corporate`, and `Consumer`. The d
 # Customer Segment- Sales Distribution
 There are 3 customer segments- `Home Office`, `Corporate`, and `Consumer`. The distribution is according to `total sales` made possible by each `customer segment`.
 
-![Image URL](https://github.com/akshan-main/supplychain/blob/main/sales_distribution_customer_segement.jpg)
+![Image URL](https://github.com/akshan-main/supplychain/blob/main/Sales_distribution_customer_segment.jpg)
 
 The pie chart below describes the distribution of `total sales` through different `customer segments`.
 
-![Image URL](https://github.com/akshan-main/supplychain/blob/main/Sales_distribution_by_customer_segment_pie.jpeg)
+![Image URL](https://github.com/akshan-main/supplychain/blob/main/sales_distribution_by_customer_segment.jpeg)
 
 # Market Analysis- Distribution among markets
 There are 5 different markets. The total number of instances of each in the dataset is seen in the bar graph below.
