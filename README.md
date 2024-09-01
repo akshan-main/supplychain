@@ -1,10 +1,7 @@
-# Dataset
+# A project performing analysis on a supply chain dataset
 
 Link to the dataset
 [here](https://data.mendeley.com/datasets/8gx2fvg2k6/5)
-
-
-# A project performing analysis on a supply chain dataset
 
 # Customer Segment Distribution- Bar Graph
 There are 3 customer segments- `Home Office`, `Corporate`, and `Consumer`. The total number of instances of each in the dataset is seen in the bar graph below.
