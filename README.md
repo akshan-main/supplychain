@@ -3,17 +3,17 @@
 # Customer Segment Distribution- Bar Graph
 There are 3 customer segments- `Home Office`, `Corporate`, and `Consumer`. The total number of instances of each in the dataset is seen in the bar graph below.
 
-![Image URL](https://github.com/akshan-main/supplychain/blob/main/customer_segment_count.jpeg)
+![Image URL](https://github.com/akshan-main/supplychain/blob/main/customer_segment_count.jpg)
 
 # Customer Segment Distribution- Pie Chart
 There are 3 customer segments- `Home Office`, `Corporate`, and `Consumer`. The distribution of each segment in the dataset can be seen in the pie graph below.
 
-![Image URL](https://github.com/akshan-main/supplychain/blob/main/customer_segment_distribution.jpeg)
+![Image URL](https://github.com/akshan-main/supplychain/blob/main/customer_segment_distribution.jpg)
 
 # Customer Segment- Sales Distribution
 There are 3 customer segments- `Home Office`, `Corporate`, and `Consumer`. The distribution is according to `total sales` made possible by each `customer segment`.
 
-![Image URL](https://github.com/akshan-main/supplychain/blob/main/sales_distribution_customer_segement.jpeg)
+![Image URL](https://github.com/akshan-main/supplychain/blob/main/sales_distribution_customer_segement.jpg)
 
 The pie chart below describes the distribution of `total sales` through different `customer segments`.
 
