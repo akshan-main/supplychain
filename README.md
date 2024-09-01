@@ -54,7 +54,7 @@ A significant portion of deliveries are late, particularly in `First Class` and 
 # Sales Trends
 The graph below denotes the `sales trend` monthly. The lowest number of sales was recorded in November 2017 for all products combined.
 
-![Image URL](https://github.com/akshan-main/supplychain/blob/main/sales_trend.png)
+![Image URL](https://github.com/akshan-main/supplychain/blob/main/sales_trend.jpeg)
 
 The graph below denotes the `sales trend` monthly for ` Nike Men's Free 5.0+ Running Shoe `. 
 
@@ -62,7 +62,7 @@ The highest amount of sales was recorded for the product during July 2017 and th
 
 The latest recorded sale of this product was in September 2017
 
-![Image URL](https://github.com/akshan-main/supplychain/blob/main/sales_trend_nike5.0.png)
+![Image URL](https://github.com/akshan-main/supplychain/blob/main/sales_trend_nike5.0.jpeg)
 
 
 In both cases, the sales are heavily fluctuating.
@@ -78,4 +78,4 @@ The edges represent the weight, which here is the total amount of sales that hav
 
 The `Sales` as implied from the dataset is `Product Price` times `Quantity`.
 
-![Image URL](https://github.com/akshan-main/supplychain/blob/main/Market_customer_segment_interaction.png)
+![Image URL](https://github.com/akshan-main/supplychain/blob/main/Market_customer_segment_interaction.jpeg)
