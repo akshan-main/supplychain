@@ -87,16 +87,24 @@ The `Sales` as implied from the dataset is `Product Price` times `Quantity`.
 ![Image URL](https://github.com/akshan-main/supplychain/blob/main/shipping_mode_distribution.jpeg)
 
 
-# Orders from each category
+# Orders from Each Category
 
 
 ![Image URL](https://github.com/akshan-main/supplychain/blob/main/number_of_orders_product_categories.jpeg)
 
 
-# Orders from each category
+# Sales Performance
 
 
 ![Image URL](https://github.com/akshan-main/supplychain/blob/main/sales_performance.jpeg)
+
+
+# Cities with most sales
+
+The visualization helps identify which cities contribute the most to the overall sales, the cities can then be focused on for further business strategy planning and analysis.
+
+
+![Image URL](https://github.com/akshan-main/supplychain/blob/main/cities_with_highest_sales.jpeg)
 
 
 
