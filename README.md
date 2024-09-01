@@ -37,7 +37,7 @@ The products ` Perfect Fitness Perfect Rip Deck `, ` Nike Men's Free 5.0+ Runnin
 
 `Smart Watch` is the highest sold of all items in a particular market ie; it's the highest sold item in the `Pacific Asia` market but it is not among the top 6 sold products in any of the other 5 markets.
 
-![Image URL](https://github.com/akshan-main/supplychain/blob/main/top_products_by_market.jpeg)
+![Image URL](https://github.com/akshan-main/supplychain/blob/main/delivery_status_distribution.jpeg%20.png)
 
 # Delivery Status- Distribution
 There are 4 different delivery statuses and the total number of instances of each in the dataset is seen in the bar graph below.
