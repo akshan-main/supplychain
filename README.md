@@ -8,7 +8,7 @@ There are 3 customer segments- `Home Office`, `Corporate`, and `Consumer`. The t
 # Customer Segment Distribution- Pie Chart
 There are 3 customer segments- `Home Office`, `Corporate`, and `Consumer`. The distribution of each segment in the dataset can be seen in the pie graph below.
 
-![Image URL](https://github.com/akshan-main/supplychain/blob/main/customer_segment_distribution.jpg)
+![Image URL](https://github.com/akshan-main/supplychain/blob/main/Customer_segment_distribution.jpg)
 
 # Customer Segment- Sales Distribution
 There are 3 customer segments- `Home Office`, `Corporate`, and `Consumer`. The distribution is according to `total sales` made possible by each `customer segment`.
