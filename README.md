@@ -131,8 +131,9 @@ The visualization helps identify which cities contribute the most to the overall
 
 ![Image URL](https://github.com/akshan-main/supplychain/blob/main/shipping_performance.jpeg)
 
-# Also made it possible to Predict for new values if the order has a late delivery risk using model trained on the dataset, using Random Forest Classifier.
+# Prediction Model 
 
+Also made it possible to Predict for new values if the order has a late delivery risk using model trained on the dataset, using Random Forest Classifier.
 It has accuracy of about 98%
 
 
