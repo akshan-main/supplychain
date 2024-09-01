@@ -128,7 +128,7 @@ Average shipping time for each shipping mode is denoted here
 
 # Prediction Model 
 
-Also made it possible to Predict for new values if the order has a late delivery risk using model trained on the dataset, using Random Forest Classifier.
+Made it possible to Predict for new values if the order has a late delivery risk using model trained on the dataset, using Random Forest Classifier.
 It has accuracy of about 98%
 
 
