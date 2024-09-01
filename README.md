@@ -28,7 +28,7 @@ There are 5 different markets. The total number of instances of each in the data
 
 The distribution for the same is seen in the pie chart
 
-![Image URL](https://github.com/akshan-main/supplychain/blob/main/market_count_pie.jpeg)
+![Image URL](https://github.com/akshan-main/supplychain/blob/main/market_counts_pie.jpeg)
 
 # Top products- Market based
 There are 5 different markets. The top 6 products from each market can be seen on the graph along with the count of each product within the market.
