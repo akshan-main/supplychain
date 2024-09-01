@@ -1,3 +1,9 @@
+# Dataset
+
+Link to the dataset:
+![here](https://data.mendeley.com/datasets/8gx2fvg2k6/5)
+
+
 # A project performing analysis on a supply chain dataset
 
 # Customer Segment Distribution- Bar Graph
@@ -99,12 +105,45 @@ The `Sales` as implied from the dataset is `Product Price` times `Quantity`.
 ![Image URL](https://github.com/akshan-main/supplychain/blob/main/sales_performance.jpeg)
 
 
-# Cities with most sales
+# Cities with Most Sales
 
 The visualization helps identify which cities contribute the most to the overall sales, the cities can then be focused on for further business strategy planning and analysis.
 
 
 ![Image URL](https://github.com/akshan-main/supplychain/blob/main/cities_with_highest_sales.jpeg)
+
+
+# Product Cancellation Analysis 
+
+
+![Image URL](https://github.com/akshan-main/supplychain/blob/main/product_cancellation.jpeg)
+
+
+# Time Taken for Delivery based on Shipping Mode 
+
+
+![Image URL](https://github.com/akshan-main/supplychain/blob/main/shipping_performance.jpeg)
+
+
+# Time Taken for Delivery based on Shipping Mode 
+
+
+
+![Image URL](https://github.com/akshan-main/supplychain/blob/main/shipping_performance.jpeg)
+
+# Also made it possible to Predict for new values if the order has a late delivery risk using model trained on the dataset, using Random Forest Classifier.
+
+It has accuracy of about 98%
+
+
+
+
+
+
+
+
+
+
 
 
 
