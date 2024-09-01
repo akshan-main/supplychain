@@ -79,3 +79,26 @@ The edges represent the weight, which here is the total amount of sales that hav
 The `Sales` as implied from the dataset is `Product Price` times `Quantity`.
 
 ![Image URL](https://github.com/akshan-main/supplychain/blob/main/Market_customer_segment_interaction.jpeg)
+
+
+# Shipping Mode Preferences
+
+
+![Image URL](https://github.com/akshan-main/supplychain/blob/main/shipping_mode_distribution.jpeg)
+
+
+# Orders from each category
+
+
+![Image URL](https://github.com/akshan-main/supplychain/blob/main/number_of_orders_product_categories.jpeg)
+
+
+# Orders from each category
+
+
+![Image URL](https://github.com/akshan-main/supplychain/blob/main/sales_performance.jpeg)
+
+
+
+
+
