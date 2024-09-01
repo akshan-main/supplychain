@@ -22,10 +22,10 @@ The pie chart below describes the distribution of `total sales` through differen
 
 ![Image URL](https://github.com/akshan-main/supplychain/blob/main/sales_distribution_by_customer_segment.jpeg)
 
-# Market Analysis- Distribution among markets
+# Distribution among Markets
 There are 5 different markets. The total number of instances of each in the dataset is seen in the bar graph below.
 
-`Europe` and `Pacific Asia` are the top-performing markets in terms of `sales`, `while Latin America`, `Africa` and `USCA (United States & Canada)` lag behind.
+`Europe` and `Latin America` are the most observable in the dataset whereas `Pacific Asia`, `Africa` and `USCA (United States & Canada)` arent comparably much.
 
 ![Image URL](https://github.com/akshan-main/supplychain/blob/main/market_counts.jpeg)
 
@@ -33,12 +33,12 @@ The distribution for the same is seen in the pie chart
 
 ![Image URL](https://github.com/akshan-main/supplychain/blob/main/market_counts_pie.jpeg)
 
-# Top products- Market based
+# Product Popularity in Different Markets
 There are 5 different markets. The top 6 products from each market can be seen on the graph along with the count of each product within the market.
 
-The products ` Perfect Fitness Perfect Rip Deck `, ` Nike Men's Free 5.0+ Running Shoe `,` Nike Men's Dri-FIT Victory Golf Polo `,` Field & Stream Sportsman 16 Gun Fire Safe ` are among the top 6 products sold in all markets.
+Same 6 products dominate all markets. The ordinal position of the top 4 products remains the same across markets. There is a difference in order only in the 5th and 6th popular product
 
-`Smart Watch` is the highest sold of all items in a particular market ie; it's the highest sold item in the `Pacific Asia` market but it is not among the top 6 sold products in any of the other 5 markets.
+` Field & Stream Sportsman 16 Gun Fire Safe ` is the most popular product.
 
 ![Image URL](https://github.com/akshan-main/supplychain/blob/main/top_products_by_market.jpeg)
 
@@ -55,15 +55,15 @@ A significant portion of deliveries are late, particularly in `First Class` and 
 
 
 # Sales Trends
-The graph below denotes the `sales trend` monthly. The lowest number of sales was recorded in November 2017 for all products combined.
+The graph below denotes the `sales trend` monthly. The lowest number of sales were recorded towards start of 2018 for all products combined.
 
 ![Image URL](https://github.com/akshan-main/supplychain/blob/main/sales_trend.jpeg)
 
 The graph below denotes the `sales trend` monthly for ` Nike Men's Free 5.0+ Running Shoe `. 
 
-The highest amount of sales was recorded for the product during July 2017 and the lowest was during February 2015. The highest ever recorded sale of the product is just over 5000.
+The highest amount of sales was recorded for the product during May 2015 and the lowest were towards start of 2018. The highest ever recorded sale of the product is just below 140000.
 
-The latest recorded sale of this product was in September 2017
+The latest recorded sale of this product was in October 2017
 
 ![Image URL](https://github.com/akshan-main/supplychain/blob/main/sales_trend_nike5.0.jpeg)
 
@@ -85,18 +85,22 @@ The `Sales` as implied from the dataset is `Product Price` times `Quantity`.
 
 
 # Shipping Mode Preferences
-
+Below is the pie chart of the distribution of shipping modes preferred by customers.
 
 ![Image URL](https://github.com/akshan-main/supplychain/blob/main/shipping_mode_distribution.jpeg)
 
+Most people prefer Standard Class
+
 
 # Orders from Each Category
-
+Here, total orders from each category are present. The subsequent graph also provides information on the number of different product orders based on their shipping mode.
 
 ![Image URL](https://github.com/akshan-main/supplychain/blob/main/number_of_orders_product_categories.jpeg)
 
 
 # Sales Performance
+
+The below graph denotes sales performance for each product category. Computer and related products seem to be the most profitable.
 
 
 ![Image URL](https://github.com/akshan-main/supplychain/blob/main/sales_performance.jpeg)
@@ -111,22 +115,16 @@ The visualization helps identify which cities contribute the most to the overall
 
 
 # Product Cancellation Analysis 
-
+The graph helps analyze which product categories are prone to most order cancellations. Products falling under these categories can be set for later dispatch.
 
 ![Image URL](https://github.com/akshan-main/supplychain/blob/main/product_cancellation.jpeg)
 
 
 # Time Taken for Delivery based on Shipping Mode 
-
-
-![Image URL](https://github.com/akshan-main/supplychain/blob/main/shipping_performance.jpeg)
-
-
-# Time Taken for Delivery based on Shipping Mode 
-
-
+Average shipping time for each shipping mode is denoted here
 
 ![Image URL](https://github.com/akshan-main/supplychain/blob/main/shipping_performance.jpeg)
+
 
 # Prediction Model 
 
