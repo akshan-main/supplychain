@@ -85,11 +85,11 @@ The `Sales` as implied from the dataset is `Product Price` times `Quantity`.
 
 
 # Shipping Mode Preferences
-Below is the pie chart of the distribution of shipping modes preferred by customers.
+Below is the pie chart of the distribution of `shipping modes` preferred by customers.
 
 ![Image URL](https://github.com/akshan-main/supplychain/blob/main/shipping_mode_distribution.jpeg)
 
-Most people prefer Standard Class
+Most people prefer `Standard Class`
 
 
 # Orders from Each Category
@@ -100,26 +100,28 @@ Here, total orders from each category are present. The subsequent graph also pro
 
 # Sales Performance
 
-The below graph denotes sales performance for each product category. Computer and related products seem to be the most profitable.
+The below graph denotes sales performance for each product category. Computers and related products seem to be the most profitable.
 
 
 ![Image URL](https://github.com/akshan-main/supplychain/blob/main/sales_performance.jpeg)
 
 
-# Cities with Most Sales
+# Cities with the Most Sales
 
-The visualization helps identify which cities contribute the most to the overall sales, the cities can then be focused on for further business strategy planning and analysis.
+The visualization helps identify which  `cities` contribute the most to the overall sales, the `cities` can then be focused on for further business strategy planning and analysis.
 
 
 ![Image URL](https://github.com/akshan-main/supplychain/blob/main/cities_with_highest_sales.jpeg)
 
+`Caguas` is the city with most sales.
+
 
 # Product Cancellation Analysis 
-The graph helps analyze which product categories are prone to most order cancellations. Products falling under these categories can be set for later dispatch.
+The graph helps analyze which product categories are prone to most `order cancellations`. Products falling under these categories can be set for later dispatch.
 
 ![Image URL](https://github.com/akshan-main/supplychain/blob/main/product_cancellation.jpeg)
 
-Kids' Golf Clubs is the most cancelled
+`Kids' Golf Clubs` is the most cancelled product category.
 
 
 # Time Taken for Delivery based on Shipping Mode 
