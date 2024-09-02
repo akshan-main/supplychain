@@ -93,7 +93,7 @@ Most people prefer Standard Class
 
 
 # Orders from Each Category
-Here, total orders from each category are present. The subsequent graph also provides information on the number of different product orders based on their shipping mode.
+Here, total orders from each category are present. The subsequent graph also provides information on the number of different product's order based on their shipping mode.
 
 ![Image URL](https://github.com/akshan-main/supplychain/blob/main/number_of_orders_product_categories.jpeg)
 
@@ -119,16 +119,20 @@ The graph helps analyze which product categories are prone to most order cancell
 
 ![Image URL](https://github.com/akshan-main/supplychain/blob/main/product_cancellation.jpeg)
 
+Kids' Golf Clubs is the most cancelled
+
 
 # Time Taken for Delivery based on Shipping Mode 
 Average shipping time for each shipping mode is denoted here
 
 ![Image URL](https://github.com/akshan-main/supplychain/blob/main/shipping_performance.jpeg)
 
+`Standard Class` and `Second Class` are identical based on delivery time
+
 
 # Prediction Model 
 
-Made it possible to Predict for new values if the order has a late delivery risk using model trained on the dataset, using Random Forest Classifier.
+Made it possible to Predict for new values if the order has a `late delivery risk` using model trained on the dataset, using Random Forest Classifier.
 It has accuracy of about 98%
 
 
